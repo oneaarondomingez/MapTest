@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="from_latitude">From latitude</string>
+    <string name="from_longitude">From longitude</string>
+    <string name="to_latitude">To latitude</string>
+    <string name="to_longitude">To longitude</string>
+    <string name="speed">Speed</string>
+    <string name="create">Create</string>
+    <string name="default_from_latitude">37.757815</string>
+    <string name="default_from_longitude">-122.50764</string>
+    <string name="default_to_latitude">37.4029937</string>
+    <string name="default_to_longitude">-122.3675526</string>
+    <string name="default_speed_value">1</string>
+</resources>
